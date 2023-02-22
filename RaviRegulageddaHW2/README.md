@@ -1,0 +1,1 @@
+To run the code, just run the homework.py file. You will be asked for a choice of dataset 1. 500-500-30 and 2. 100-k. After making this choice, part 1 and part 2 is printed to stdout and the plots are created as png files in the directory.
